@@ -169,6 +169,7 @@ This project is licensed under the **MIT License**.
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to open an issue or submit a PR.
+<img width="1915" height="926" alt="Screenshot 2025-08-24 010727" src="https://github.com/user-attachments/assets/d3304731-04ea-4481-b569-f85266bba7a5" />
 
 ---
 
