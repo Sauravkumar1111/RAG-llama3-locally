@@ -3,7 +3,7 @@ import tempfile
 from typing import List, Tuple
 from langchain_community.document_loaders import CSVLoader, PyPDFLoader, UnstructuredPDFLoader
 from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
 from langchain_ollama import ChatOllama
 from langchain_openai import ChatOpenAI
 from langchain.chains import ConversationalRetrievalChain
